@@ -23,7 +23,7 @@ To generate PDF files locally on an Android Device, there are a lot of commercia
 
 ```
 repositories {
-    maven { url "https://maven.andob.info/repository/open_source" }
+    maven { url "https://andob.io/repository/open_source" }
 }
 ```
 
