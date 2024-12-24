@@ -1,2 +1,1 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="org.librepdf.openpdf.android.awtcompat"/>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" />
